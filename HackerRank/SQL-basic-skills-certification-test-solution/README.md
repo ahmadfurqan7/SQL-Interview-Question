@@ -13,14 +13,4 @@ Certificate can be viewed [here](https://www.hackerrank.com/certificates/3b850ab
 - [Profitable Stocks](profitable-stocks.sql)
 - [Merit Rewards](merit-rewards.sql)
 
-## Follow me
-
-<a href="https://www.linkedin.com/in/ahmad-furqan-836468197/">
-  <img align="left" alt="Azhar's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/ahmadfurqan7/">
-  <img align="left" alt="Azhar Khan | Twitter" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/91a804aef38847ce0d70cc4f796da8931b2f1f19/images/svg/instagram.svg" />
-</a>
-
-<br/>
 

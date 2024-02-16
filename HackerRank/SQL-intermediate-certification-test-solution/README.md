@@ -9,6 +9,8 @@ Certificate can be viewed [here](https://www.hackerrank.com/certificates/99e6ca7
 ## Programs / Questions
 - [Invoice Per Country](invoices-per-country.sql)
 - [Product Sales Per City](product-sales-per-city.sql)
+- [Products Without Sales](products-without-sales.sql)
+- [Product Sales Per City](customer-spending.sql)
 
 
 
